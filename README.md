@@ -18,7 +18,7 @@ GitOps is a framework where the entire code delivery process is controlled via a
 
 ## Topics Covered
 
-- Source Controller  
+- Source Controller  — Concepts introduction && Usage Practice Demo
 - Kustomize Controller — Concepts introduction && Usage Practice Demo 
 - Helm Controller  - Concepts introduction && Usage Practice Demo 
 - Notification Controller  — Concepts introduction && Usage Practice Demo 
