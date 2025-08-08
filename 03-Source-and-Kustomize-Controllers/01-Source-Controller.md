@@ -44,3 +44,4 @@ spec:
     kind: GitRepository                      # reference to the source kind 
     name: flux-system                        # name of the GitRepository to use 
 ```
+
