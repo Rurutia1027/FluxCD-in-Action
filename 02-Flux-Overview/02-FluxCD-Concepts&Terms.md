@@ -26,3 +26,10 @@ Suspends the reconciliation of a resource.
 
 ## Resume 
 Resume a suspended resource
+
+--- 
+## Prune
+Any Kubernetes objects applied on the cluster but missing from the current source, are removed from cluster automatically if prune is set to true.  
+
+## Image
+Flux Image command works with image automation objects to update a Git repository when new container images are available. 
